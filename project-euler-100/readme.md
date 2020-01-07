@@ -1,0 +1,1 @@
+git commit --all -m "New dire created for misc ongoing skill development projects with subdirectory for FCC challenge." -m "Created new dir to house development projects. Also created subdir to for solutions and ongoing work for FreeCodeCamp's #ProjectEuler100 challenge. New dire includes appropriate project README."
