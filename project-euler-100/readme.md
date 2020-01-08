@@ -30,4 +30,5 @@ FreeCodeCamp has challenged developers to complete the first 100 problems posted
 ## Problems
 This is a list of the problems I've attempted thus far:
 
-1. Multiples or 3 and 5 (In Development)
+001. Multiples of 3 and 5 -- [Solution](/001_multiples_of_3_and_5.py) -- [Notes](/001_multiples_of_3_and_5_notes.md)
+002. Even Fibonacci Numbers -- (In Development)
