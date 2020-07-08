@@ -6,7 +6,7 @@
 # For additional info regarding solution, see 002_even_fibonacci_numbers_notes.md
 
 
-
+# Function to calculate sum of Fibonacci evens
 def sum_fib_evens(endpoint):
     sum = 0
     fib1, fib2 = 0, 1
@@ -16,6 +16,7 @@ def sum_fib_evens(endpoint):
         fib1, fib2 = fib2, fib1 + fib2
     return sum
 
+# Main funtion prompting user to provide positive integer limit for calculation, and then provides result
 def main():
     print("The even numbers in the Fibonacci sequence between 0 and your limit will be summed.")
     limit = int(input('Please provide a positive integer as a limit: '))
