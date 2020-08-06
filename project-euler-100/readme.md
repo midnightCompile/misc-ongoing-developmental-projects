@@ -33,4 +33,5 @@ This is a list of the problems I've attempted thus far:
 001. Multiples of 3 and 5 -- [Solution](001_multiples_of_3_and_5.py) -- [Notes](001_multiples_of_3_and_5_notes.md)
 002. Even Fibonacci Numbers -- [Solution](002_even_fibonacci_numbers.py) -- [Notes](002_even_fibonacci_numbers_notes.md)
 003. Largest Prime Factor -- [Solution](003_largest_prime_factor.py) -- [Notes](003_largest_prime_factor_notes.md)
-004. Largest Palindrome Project -- (In Development)
+004. Largest Palindrome Project -- [Solution](004_largest_palindrome_project) -- [Notes](004_largest_palindrome_project_notes.md)
+005. Smallest Multiple -- (In Development)
